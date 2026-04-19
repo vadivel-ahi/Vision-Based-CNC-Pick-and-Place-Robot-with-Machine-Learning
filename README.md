@@ -11,12 +11,12 @@
 ## 📸 Gallery
 
 <p align="center">
-  <img src="images/vision_based_pnp_cnc_robot.jpg" alt="CNC PnP Machine Physical Build" width="420"/>
+  <img src="images/vision_based_pnp_cnc_robot.jpg" alt="CNC PnP Machine Physical Build" width="350"/>
   <br><em>Physical build — CNC machine with foam casing, overhead webcam mount, 3x3 game board, and electromagnet tool head</em>
 </p>
 
 <p align="center">
-  <img src="images/vision_based_pnp_cnc_robot_model.jpg" alt="CAD Model of CNC PnP Machine" width="420"/>
+  <img src="images/vision_based_pnp_cnc_robot_model.jpg" alt="CAD Model of CNC PnP Machine" width="380"/>
   <br><em>CAD model of the full system — showing the XY gantry, Z-axis, electromagnet tool head, and enclosure design</em>
 </p>
 
