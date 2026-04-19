@@ -11,7 +11,7 @@
 ## 📸 Gallery
 
 <p align="center">
-  <img src="images/vision_based_pnp_cnc_robot.jpg" alt="CNC PnP Machine Physical Build" width="350"/>
+  <img src="images/vision_based_pnp_cnc_robot.jpg" alt="CNC PnP Machine Physical Build" width="300"/>
   <br><em>Physical build — CNC machine with foam casing, overhead webcam mount, 3x3 game board, and electromagnet tool head</em>
 </p>
 
